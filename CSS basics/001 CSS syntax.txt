@@ -1,0 +1,17 @@
+CSS Basic Syntax:
+
+
+  selector {property: value;}
+
+
+ example 1, single property:
+  p {
+    font-size:18px;
+    }
+
+example 2, multiple properties:
+  h1{
+    font-family: monospace;
+    font-size: 30px;
+    color: blue;
+    }

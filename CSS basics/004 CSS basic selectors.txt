@@ -1,0 +1,45 @@
+CSS Basic Selectors:
+
+
+CSS can have a variety of selector types.
+
+The most typical selectors used in CSS are:
+
+  - element (default): example
+      h1{ 
+           color:red;
+          }
+
+  - id selectors: example
+
+      in html code: <h1 id ="banner_1">
+      in CSS file: #banner_1 {
+                                          font-size:40px;
+                                          font-family: monospace;
+                                          }
+
+  - class selectors: example
+
+      in html code: <div class="text_section">
+
+      in CSS file: .text_section {
+                                            font-size:16px; 
+                                            font-family:sans-serif;
+                                            }
+
+  These three are essential to learn as soon as possible. They are the most common use cases.
+
+    
+
+But there are other selector types that exist. Selectors fall into the following classes:
+  each of these needs to be learned independently.
+
+   - simple selectors (element, class, ID)
+   - combinator selectors
+   - attribute selectors
+   - pseudo-element selectors
+   - pseudo-class selectors
+
+
+
+

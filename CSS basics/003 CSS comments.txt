@@ -1,0 +1,18 @@
+CSS Comments:
+
+single-line comments in CSS:
+
+   /* THIS IS A SINGLE-LINE COMMENT */
+
+
+multi-line comments in CSS:
+
+  /*
+      THIS
+	IS
+	      A
+ 	          MULTI-LINE
+  		             COMMENT
+				*/
+
+note that the commenting methods for HTML and CSS are not the same.

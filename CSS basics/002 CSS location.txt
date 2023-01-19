@@ -1,0 +1,9 @@
+CSS Location:
+
+
+CSS may be placed one of three places:
+
+  - inline
+  - in the head of the document, inside <style></style> tags.
+  - in a separate CSS file, linked by line of link code t the bottom of the document head:   
+      <link rel="stylesheet" href="css_filename.css">
