@@ -1,0 +1,21 @@
+CSS Box Model
+
+
+components of box model, in order:
+
+  margin
+  border
+  padding
+  element
+
+  each of the above has a left, top, right, and bottom element that can be individually styled.
+  
+all these can be shorthanded:
+
+   #div_1 {
+                margin: 10% 10%; 
+                }
+
+   .text_class { 
+                      padding: 10px 10px; 
+                      }

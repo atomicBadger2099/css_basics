@@ -1,0 +1,18 @@
+CSS: Height, Width, and Max-Width with margin:auto
+
+   The height and width of a CSS object can be redone by using height, width, and max-width:
+
+   all these can be done in multiple forms of measurement: px and % are the most common.
+
+   The common practice is to put objects in a div and use these and box model elements to resize.
+
+   max-width can be used to set a rigid breakpoint in size. 
+   max-width is often used with margin:auto; to control divs.
+
+example:
+
+   .div_class {
+                    height:100%;
+                    max-width:50%;
+                    margin:auto;
+                    }
